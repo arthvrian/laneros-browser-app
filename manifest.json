@@ -1,8 +1,9 @@
 {
-  "name": "__MSG_appName__",
-  "description": "__MSG_appDesc__",
-  "version": "1.3",
-  "default_locale": "en",
+  "name": "__MSG_app_name__",
+  "short_name": "__MSG_app_short_name__",
+  "description": "__MSG_app_description__",
+  "version": "1.4",
+  "default_locale": "es",
   "manifest_version": 2,
   "app": {
     "launch": {
@@ -11,5 +12,6 @@
   },
   "icons": {
     "128": "assets/img/icon.png"
-  }
+  },
+  "homepage_url": "https://www.arthvrian.org"
 }

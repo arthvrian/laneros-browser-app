@@ -2,6 +2,10 @@
 
 All notable changes to `laneros-browser-app` will be documented in this file.
 
+## 1.4 - 2019-06-17
+
+* Locale updated
+
 ## 1.3 - 2018-06-01
 
 * Official release

@@ -1,8 +1,11 @@
 {
-  "appName": {
+  "app_name": {
+    "message": "App de navegador para Laneros"
+  },
+  "app_short_name": {
     "message": "Laneros"
   },
-  "appDesc": {
+  "app_description": {
     "message": "Noticias sobre tecnología, internet, juegos y entretenimiento. Comunidad colombiana."
   }
 }

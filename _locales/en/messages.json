@@ -1,8 +1,11 @@
 {
-  "appName": {
+  "app_name": {
+    "message": "Laneros browser app"
+  },
+  "app_short_name": {
     "message": "Laneros"
   },
-  "appDesc": {
+  "app_description": {
     "message": "News about technology, Internet, games and entertainment. Colombian Community."
   }
 }
